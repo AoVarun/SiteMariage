@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Site_mariage_Dana_Sébastien_VarunGuptaCygnus</title>
+		<link rel="stylesheet" href="css/site1.css">
+		<style> @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+		</style> 
+		<style> @import url('https://fonts.googleapis.com/css2?family=Lobster&family= Open+Sans:wght@300&display=swap');
+		</style> 
+	</head>
+	
+	<body>
+		<header>
+			<img  class="lieumariage" src="assets/Logomariage.png" alt="Photo_endroit_mariage" height="40"/>
+			<nav>
+				<ul>
+					<li><a href="accueil1.html">Accueil </a>
+					<li><a href="organisation.html">Organisation</a>
+					<li><a href="#">Formulaire</a>
+					<li><a href="contact.html">Contact</a>
+				</ul>
+			</nav>
+		</header>
+		<div>
+			<h2>Formulaire</h2>
+			<form>
+				<div class="formulaire">
+					<h3 class="personnel">Informations personnelles</h3>
+					<p>Votre nom : </p>
+					<input name="nompersonne" id="nompersonne" type="text" placeholder=" Entrez votre Nom..." required>
+					<label for="nompersonne"></label>
+					<p>Votre Prénom : </p>
+					<input name="prenompersonne" id="prenompers" type="text" placeholder="Entrez votre Prénom..." required>
+					<label for="prenompersonne"></label>
+					<p>Votre genre:<p>
+					<input type="radio" id="Homme" name="genre">
+					<label for="Homme">Homme</label>
+					<input type="radio" id="Femme"	name="genre">
+					<label for="Femme">Femme</label>
+					<input type="radio" id="Autre"name="genre">
+					<label for="Autre">Autre</label>
+					<p>Votre adresse mail : </p>
+					<input type="email" id="mail" name="mail" placeholder="Entrez votre adresse mail...">
+					<label for="mail"></label>
+					<p>Votre lien avec les mariés:<p>
+					<input type="radio" id="famille" name="lien">
+					<label for="famille">Famille</label>
+					<input type="radio" id="amis"	name="lien">
+					<label for="amis">Amis</label>
+					<input type="radio" id="Autre"name="lien">
+					<label for="Autre">Autre</label>
+				</div>
+				<div class="formulaire">
+					<h3 class="personnel">Mariage</h3>
+					<p>Êtes-vous accompagnés ?</p>
+					<input type="radio" id="oui" name="accompagnement">
+					<label for="oui">Oui</label>
+					<input type="radio" id="non" name="accompagnement">
+					<label for="non">Non</label>
+					<p>Par combien de personnes:</p>
+					<select name="nombre">
+						<option>0</option>
+						<option>1</option>
+						<option>2</option>
+						<option>3</option>
+						<option>4+</option>
+					</select>
+					<p>Régime alimentaire particulier:</p>
+					<select name="regime">
+						<option>Aucun régime particulier</option>
+						<option>Régime sans gluten</option>
+						<option>Régime végétarien</option>
+						<option>Régime végétalien</option>
+						<option>Régime flexitarien</option>
+					</select>
+					<p>Allergies :</p>
+					<input name="alerg" id="allergies" type="text" placeholder="Préciser vos allergies...">
+					<label for="allergies"></label>
+					<p><input type="submit" value="Valider"></p>   
+					
+				</div>
+			</form>
+		</div>	
+		<footer>
+			<a href="#">Auteur</a>
+			<a href="#">Coordonnées</a>
+			<a href="#">Mentions Légales</a>
+			<a href="#">Accessibilité</a>
+		</footer>
+	</body>
+</html>

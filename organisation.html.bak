@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Site_mariage_Dana_Sébastien_VarunGuptaCygnus</title>
+		<link rel="stylesheet" href="css/site1.css">
+		<style> @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+		</style> 
+		<style> @import url('https://fonts.googleapis.com/css2?family=Lobster&family= Open+Sans:wght@300&display=swap');
+</style> 
+	</head>
+	
+	<body>
+		<header>
+			<img  class="lieumariage" src="Logomariage.png" alt="Photo_endroit_mariage" height="40"/>
+			<nav>
+				<ul>
+					<li><a href="accueil1.html">Accueil </a>
+					<li><a href="#">Organisation</a>
+					<li><a href="formulaire.html">Formulaire</a>
+					<li><a href="contact.html">Contact</a>
+				</ul>
+			</nav>
+		</header>
+		<section>
+		<div id="organisation">
+			<h2>Organisation de la journée<h2>
+		</div>
+		<div id="psdanse"> 
+		<img class="pistedanse" src="assets/pistedanse.jpg" alt="piste de danse" height="300px"/>
+			<h3 class="construction">Construction piste de danse</h3>
+			<p class="identite"> Pour commencer cette sublime journée,nous vous donnons tous RDV au Palm Beach où un atelier vous attend.Cet atelier consistera à construire de A à Z une piste de danse à notre effigie.Cette piste danse nous sera utile en fin de soirée afin de se divertir et exprimer notre joie. </p> 
+		</div>
+		<div class="hs"></div>
+		<div id="dance">
+		<img class="pistedanse" src="assets/ceremonie.jpg" alt="" width="50%" height="300px"/>
+			<h3 class="construction">Cérémonie de mariage</h3>
+			<p class="identite">"Il me sourit avec une sorte de complicité qui allait au-delà de la complicité. L'un de ces sourires singuliers qu'on ne rencontre que cinq ou six fois dans une vie, et qui vous rassure à jamais. Qui, après avoir jaugé - ou feint peut-être de jauger - le genre humain dans son ensemble, choisit de s'adresser à vous, poussé par un irrésistible préjugé favorable à votre égard. Qui vous comprend dans la mesure exacte où vous souhaitez qu'on vous comprenne, qui croit en vous comme vous aimeriez croire en vous-même, qui vous assure que l'impression que vous donnez est celle que vous souhaitez donner, celle d'être au meilleur de vous-même."Cette citation de F. S. Fitzgerald résume parfaitement l'amour que nous éprouvons l'un envers l'autre. Nous célébrerons cet amour avec la cérémonie de mariage qui se déroulera aux alentours de midi. Nous aurons comme officiant de cérémonie le Maire de Cannes (David Lisnard).   </p>
+			</div>
+			<div class="hs"></div>
+			<div>
+			<img id="imagetraiteur" src="assets/traiteur.jpg" alt="" height="300px"/> 
+				<h3 id="mariagemenu" class="menu">Notre menu</h3>
+				<p id="traiteur"class="menu">ROC-Catering est un traiteur éco-responsable qui propose des prestations culinaires sur-mesure, basé sur la très élégante French Riviera. Cette équipe de professionnels a pour engagement d'employer exclusivement des produits locaux, de saison et issus d'une agriculture respectant l'environnement.Grâce à la création d'un véritable laboratoire professionnel, ROC-Catering est en mesure de proposer des prestations traiteur allant jusqu'à 4000 personnes.Le menu comporte un cocktail apéritif de 8 pièces (5 froides & 3 chaudes) + 2 animations culinaire suivi d'un dîner assis (entrée + plat + dessert).Ce traiteur fait aussi des menus spécifiques (végétariens,sans gluten). </p>
+			</div>
+			<div class="hs"></div>
+			<img id="atelier" src="assets/midi.jpg" alt=""/> 
+			<div class="hs"></div>
+			<div id="animation">
+				<h2>Les différentes Animations</h2>
+				<div id="animation1">
+					<h3>1ère Animation: Animation graphiste</h3>
+					<p>Animation très originale de Sophie, elle réalise sous les yeux de chacun de vos invités un souvenir qu’ils emporteront à la fin de la soirée : calligraphie artistique de leur prénom, tatouage éphémère ( main, épaule, bras, jambe…). Ils repartiront ainsi avec un joli souvenir.</p>
+				</div>
+				<div id="animation2">
+					<h3>2ème Animation: Animation makeup</h3>
+					<p>L’animation makeup sera réalisée par ma meilleure amie Sophie. Elle réalisera sous les yeux des invités, des maquillages pour tout âges(enfants, adultes). Elle sera accompagnée d’une coiffeuse professionnelle pour vous concocter une coiffure extraordinaire. Laissez-vous tenter. </p>
+				</div>
+				<div id="animation3">
+					<h3>3ème Animation: Animation Chateau gonflable</h3>
+					<p>Rassemblez-vous tous à la plage du Palm Beach. Des châteaux gonflables seront à votre disposition pour vous amuser (convient à tous âges).Ambiance et amusement seront au RDV.</p>
+				</div>
+				<div class="hs"></div>
+			</div>
+			<div id="soirée">
+				<h2>Début Soirée/Après Soirée</h2>
+				<p>Après ces animations, il est grand temps de danser/faire la fête avec le traiteur qui nous prépare des cocktail, des apéritifs, et surtout le dîner du soir.Ensuite, nous pouvons danser sur la piste de danse construite plus tôt dans la journée.Les musiques dans la soirée serait en première partie majoritairement des musiques de Céline Dion d'Adèle, etc. .Et ensuite, on se tourne vers des musiques beaucoup plus classiques des années 90. </p>
+				<img id="feux" src="assets/soiree.jpg" alt=""/>
+			</div>
+		</section>
+		<footer> 
+				<a href="#">Auteur</a>
+				<a href="#">Coordonnées</a>
+				<a href="#">Mentions Légales</a>
+				<a href="#">Accessibilité</a>
+		   </footer>
+	</body>
+</html>
+				
+					
+					
+					
+					
+				
+				
+				

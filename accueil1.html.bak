@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Site_mariage_Dana_Sébastien_VarunGuptaCygnus</title>
+		<link rel="stylesheet" href="css/site1.css">
+		<style> @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+		</style> 
+		<style> @import url('https://fonts.googleapis.com/css2?family=Lobster&family= Open+Sans:wght@300&display=swap');
+		</style> 
+	</head>
+	
+	<body>
+		<header>
+			<img  class="lieumariage" src="assets/Logomariage.png" alt="Photo_endroit_mariage" height="40"/>
+			<nav>
+				<ul>
+					<li><a href="#">Accueil </a>
+					<li><a href="organisation.html">Organisation</a>
+					<li><a href="formulaire.html">Formulaire</a>
+					<li><a href="contact.html">Contact</a>
+				</ul>
+			</nav>
+		</header>
+		<div id="nom">Sébastien Garamond & Dana Ribatti</div>
+		<section class="inline">
+			<div id="date1"class="date"> Nous nous marions! </div>
+			<div id="date2"class="date"> 15 Juillet 2022 </div>
+			<div id="date3"class="date"> Palm Beach,Cannes(Alpes-Maritimes) </div>
+			<div id="histoire">
+			<img id="im" src="mariage.jpg" alt="fleur_de_mariage"//>
+				<h3 id="histoire">Notre Histoire </h3>
+				<p class="identite">Tout cela a commencé après l'un de mes voyages sponsorisés par Sephora,
+ je me suis aperçu que de plus en plus de mes concurrentes avaient des sites super chouettes. J'étais la seule à avoir un site assez vieux(des couleurs fades et une écriture très simpliste) et je voulais un site dont les gens se souviennent, que ça les marque lorsqu'ils achètent mes produits.J'ai fait part de ce problème à ma meilleure amie Sophie et m'a donc conseillée un graphiste expérimenté et professionnel qui est nul autre que Sébastien. Lorsque je l'ai vu pour la première fois, je le trouvais énormément séduisant, je pourrai même dire que j'ai eu un coup de foudre, les rendez-vous réguliers pour voir les différents design n'étaient qu'un pretexte pour aller le voir.Il m'a fait comprendre lors de notre dernier rendez-vous que notre amour est réciproque, nous nous sommes dits au revoir le coeur soulagé.
+ </p> 
+				<div class="hs"></div>
+				</div>
+		</section>
+		<footer>
+		<a href="#">Auteur</a>
+		<a href="#">Coordonnées</a>
+		<a href="#">Mentions Légales</a>
+		<a href="#">Accessibilité</a>
+		
+		</footer>
+	</body>
+</html>
+		
